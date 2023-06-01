@@ -1,0 +1,7 @@
+More info can be found at #1807. 
+In general to summarize it is that we want to bring Faker back to its basics. 
+There are way too many external dependencies at this point. 
+Maintaining all locales is work for someone who understands the locale and not the Faker core itself.
+Same goes with the images.
+To help you guys, it will be very easy extendable so probably you 
+just install a custom faker provider that can generate images for you (whatever service it would be).
